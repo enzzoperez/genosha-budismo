@@ -12,3 +12,8 @@ Sitio que devuelve frases zen obtenidas de la API [frases zen](https://api.githu
 **Arrancar el proyecto**
 
     yarn start
+
+
+**Demo en Now**
+
+    https://genosha-budismo.now.sh/
