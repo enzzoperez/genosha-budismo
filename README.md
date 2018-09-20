@@ -2,13 +2,13 @@ Sitio que devuelve frases zen obtenidas de la API [frases zen](https://api.githu
 
 **Clonar el proyecto**
 
-    `git clone https://github.com/EnzzoPerez/genosha-budismo
-    cd genosha-budismo`
+    git clone https://github.com/EnzzoPerez/genosha-budismo
+    cd genosha-budismo
 
 **Instalar dependencias**
 
-    `yarn install / npm install`
+    yarn install / npm instal
 
 **Arrancar el proyecto**
 
-    `yarn start`
+    yarn start
